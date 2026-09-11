@@ -1,0 +1,15 @@
+{
+  "name": "shadow-runtime-6858",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 3166,
+    "createdAt": "2026-09-11T15:09:14.560Z"
+  }
+}
